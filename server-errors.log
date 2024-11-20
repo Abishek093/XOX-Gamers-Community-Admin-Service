@@ -1,0 +1,60 @@
+
+    ===============================
+    Date: 2024-10-23T05:16:20.338Z
+    Status Code: 500
+    Error Message: Internal Server Error
+    Stack Trace: Error: Internal Server Error
+    at AdminInteractor.<anonymous> (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:30:21)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)  // This includes file and line numbers
+    ===============================
+
+
+    ===============================
+    Date: 2024-10-23T05:17:42.891Z
+    Status Code: 500
+    Error Message: Internal Server Error
+    Stack Trace: Error: Internal Server Error
+    at AdminInteractor.<anonymous> (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:30:21)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)  // This includes file and line numbers
+    ===============================
+
+
+    ===============================
+    Date: 2024-10-23T05:18:25.076Z
+    Status Code: 500
+    Error Message: Internal Server Error
+    Stack Trace: Error: Internal Server Error
+    at AdminInteractor.<anonymous> (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:30:21)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)  // This includes file and line numbers
+    ===============================
+
+
+    ===============================
+    Date: 2024-10-23T05:32:46.312Z
+    Status Code: 500
+    Error Message: Internal Server Error
+    Stack Trace: Error: Internal Server Error
+    at AdminInteractor.<anonymous> (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:35:21)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abishek/Desktop/XOX/Backend/admin-service/src/interactors/AdminInteractor.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)  // This includes file and line numbers
+    ===============================
+
+
+    ===============================
+    Date: 2024-10-28T04:45:18.554Z
+    Status Code: 500
+    Error Message: Error while Blocking/Unblocking users: User not found
+    Stack Trace: Error: Error while Blocking/Unblocking users: User not found
+    at AdminRepository.<anonymous> (/Users/abishek/Desktop/XOX/Backend/admin-service/src/repositories/AdminRepositoy.ts:88:19)
+    at Generator.next (<anonymous>)
+    at fulfilled (/Users/abishek/Desktop/XOX/Backend/admin-service/src/repositories/AdminRepositoy.ts:5:58)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)  // This includes file and line numbers
+    ===============================
+

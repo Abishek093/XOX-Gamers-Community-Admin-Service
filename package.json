@@ -1,0 +1,36 @@
+{
+  "name": "admin-service",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "scripts": {
+    "dev": "nodemon src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.8",
+    "tslib": "^2.8.0",
+    "ts-node": "^10.0.0",  
+    "nodemon": "^3.1.7"    
+  },
+  "dependencies": {
+    "@types/amqplib": "^0.10.5",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/mongoose": "^5.11.96",
+    "@types/opossum": "^8.1.8",
+    "amqplib": "^0.10.4",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongoos": "^0.0.1-security",
+    "nodemon": "^3.1.7",
+    "opossum": "^8.2.0",
+    "typescript": "^5.6.3"
+  }
+}
